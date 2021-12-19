@@ -16,9 +16,9 @@ import { Profile } from "./components/auth/Profile";
 import { List } from "./components/generics/List";
 import { RandomNumber } from "./components/restriction/RandomNumber";
 import { Toast } from "./components/template-literals/Toast";
+import { Text } from "./components/polymorphic/Text";
 
 import "./App.css";
-import { Text } from "./components/polymorphic/Text";
 
 const App = () => {
   const personName = {
